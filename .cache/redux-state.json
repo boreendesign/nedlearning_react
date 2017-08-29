@@ -1,35 +1,35 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "component": "/var/www/nedreact/.cache/dev-404-page.js",
+      "component": "/Users/smorrissey/React/ned/ned/.cache/dev-404-page.js",
       "path": "/dev-404-page/",
       "componentChunkName": "component---cache-dev-404-page-js",
       "layout": "index",
       "jsonName": "dev-404-page.json",
       "internalComponentName": "ComponentDev404Page",
-      "updatedAt": 1504013093028,
+      "updatedAt": 1504018059313,
       "context": {},
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/var/www/nedreact/.cache/dev-404-page.js",
+      "componentPath": "/Users/smorrissey/React/ned/ned/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d9896e853bd1fc62a1d1c4af26adfe43",
+        "contentDigest": "f16027802733d1e948bafbbc07c103d4",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-page-creator": {
-      "resolve": "/var/www/nedreact/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "resolve": "/Users/smorrissey/React/ned/ned/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "id": "Plugin component-page-creator",
       "name": "component-page-creator",
       "version": "1.0.0",
       "pluginOptions": {
         "plugins": []
       },
-      "pluginFilepath": "/var/www/nedreact/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "pluginFilepath": "/Users/smorrissey/React/ned/ned/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "packageJson": {
         "name": "component-page-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
@@ -50,20 +50,20 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "d22b0b7aa57846b9118971abf093438f",
+        "contentDigest": "78b1299da479d9cff3b7e744ba39189a",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-layout-creator": {
-      "resolve": "/var/www/nedreact/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "resolve": "/Users/smorrissey/React/ned/ned/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "id": "Plugin component-layout-creator",
       "name": "component-layout-creator",
       "version": "1.0.0",
       "pluginOptions": {
         "plugins": []
       },
-      "pluginFilepath": "/var/www/nedreact/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "pluginFilepath": "/Users/smorrissey/React/ned/ned/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "packageJson": {
         "name": "component-layout-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
@@ -84,20 +84,20 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "ef420f53dd93b4bd339121cbe16c6ab9",
+        "contentDigest": "42974f4ffb0a45fdb493130a22e7c20d",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin internal-data-bridge": {
-      "resolve": "/var/www/nedreact/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "/Users/smorrissey/React/ned/ned/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "Plugin internal-data-bridge",
       "name": "internal-data-bridge",
       "version": "1.0.0",
       "pluginOptions": {
         "plugins": []
       },
-      "pluginFilepath": "/var/www/nedreact/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "/Users/smorrissey/React/ned/ned/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -114,20 +114,20 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "f94d9cf20e70a259071a0f83e4d198ca",
+        "contentDigest": "8ac74dc1ecfb0ec84b4308bdd0119cef",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin dev-404-page": {
-      "resolve": "/var/www/nedreact/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "/Users/smorrissey/React/ned/ned/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "Plugin dev-404-page",
       "name": "dev-404-page",
       "version": "1.0.0",
       "pluginOptions": {
         "plugins": []
       },
-      "pluginFilepath": "/var/www/nedreact/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "/Users/smorrissey/React/ned/ned/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -144,20 +144,20 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "653df7cd671766454f95a386e4496e5c",
+        "contentDigest": "19b1c2926f7c124b7b186f941bb8922c",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin prod-404": {
-      "resolve": "/var/www/nedreact/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "/Users/smorrissey/React/ned/ned/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "Plugin prod-404",
       "name": "prod-404",
       "version": "1.0.0",
       "pluginOptions": {
         "plugins": []
       },
-      "pluginFilepath": "/var/www/nedreact/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "/Users/smorrissey/React/ned/ned/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -174,20 +174,20 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "46b012247e217fb748993e498a768d17",
+        "contentDigest": "c7943c8f800f668cd88a148071a693c2",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin query-runner": {
-      "resolve": "/var/www/nedreact/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "/Users/smorrissey/React/ned/ned/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "Plugin query-runner",
       "name": "query-runner",
       "version": "1.0.0",
       "pluginOptions": {
         "plugins": []
       },
-      "pluginFilepath": "/var/www/nedreact/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "/Users/smorrissey/React/ned/ned/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -204,22 +204,22 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "72ccc49602bd0b28f15a8678d24f377e",
+        "contentDigest": "8cecc7781cce5783a793a58a56ef46a0",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-source-filesystem": {
-      "resolve": "/var/www/nedreact/node_modules/gatsby-source-filesystem",
+      "resolve": "/Users/smorrissey/React/ned/ned/node_modules/gatsby-source-filesystem",
       "id": "Plugin gatsby-source-filesystem",
       "name": "gatsby-source-filesystem",
       "version": "1.4.7",
       "pluginOptions": {
         "plugins": [],
-        "path": "/var/www/nedreact/src/pages",
+        "path": "/Users/smorrissey/React/ned/ned/src/pages",
         "name": "pages"
       },
-      "pluginFilepath": "/var/www/nedreact/node_modules/gatsby-source-filesystem",
+      "pluginFilepath": "/Users/smorrissey/React/ned/ned/node_modules/gatsby-source-filesystem",
       "packageJson": {
         "name": "gatsby-source-filesystem",
         "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
@@ -275,20 +275,20 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "cc8cbb2db66d681919776b62d22c402d",
+        "contentDigest": "c6a7d1efe8357d4a8acf255da49d0897",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-transformer-remark": {
-      "resolve": "/var/www/nedreact/node_modules/gatsby-transformer-remark",
+      "resolve": "/Users/smorrissey/React/ned/ned/node_modules/gatsby-transformer-remark",
       "id": "Plugin gatsby-transformer-remark",
       "name": "gatsby-transformer-remark",
       "version": "1.7.4",
       "pluginOptions": {
         "plugins": [
           {
-            "resolve": "/var/www/nedreact/node_modules/gatsby-remark-images",
+            "resolve": "/Users/smorrissey/React/ned/ned/node_modules/gatsby-remark-images",
             "id": "Plugin gatsby-remark-images",
             "name": "gatsby-remark-images",
             "version": "1.5.7",
@@ -296,21 +296,12 @@
               "plugins": [],
               "maxWidth": 750,
               "linkImagesToOriginal": false,
-              "wrapperStyle": "margin-bottom: 1.0725rem;",
-              "backgroundColor": "white",
-              "pathPrefix": "",
-              "quality": 50,
-              "jpegProgressive": true,
-              "pngCompressionLevel": 9,
-              "grayscale": false,
-              "duotone": false,
-              "toFormat": "",
-              "sizes": "(max-width: 750px) 100vw, 750px"
+              "wrapperStyle": "margin-bottom: 1.0725rem;"
             },
-            "pluginFilepath": "/var/www/nedreact/node_modules/gatsby-remark-images"
+            "pluginFilepath": "/Users/smorrissey/React/ned/ned/node_modules/gatsby-remark-images"
           },
           {
-            "resolve": "/var/www/nedreact/node_modules/gatsby-remark-responsive-iframe",
+            "resolve": "/Users/smorrissey/React/ned/ned/node_modules/gatsby-remark-responsive-iframe",
             "id": "Plugin gatsby-remark-responsive-iframe",
             "name": "gatsby-remark-responsive-iframe",
             "version": "1.4.5",
@@ -318,41 +309,41 @@
               "plugins": [],
               "wrapperStyle": "margin-bottom: 1.0725rem"
             },
-            "pluginFilepath": "/var/www/nedreact/node_modules/gatsby-remark-responsive-iframe"
+            "pluginFilepath": "/Users/smorrissey/React/ned/ned/node_modules/gatsby-remark-responsive-iframe"
           },
           {
-            "resolve": "/var/www/nedreact/node_modules/gatsby-remark-prismjs",
+            "resolve": "/Users/smorrissey/React/ned/ned/node_modules/gatsby-remark-prismjs",
             "id": "Plugin gatsby-remark-prismjs",
             "name": "gatsby-remark-prismjs",
             "version": "1.2.2",
             "pluginOptions": {
               "plugins": []
             },
-            "pluginFilepath": "/var/www/nedreact/node_modules/gatsby-remark-prismjs"
+            "pluginFilepath": "/Users/smorrissey/React/ned/ned/node_modules/gatsby-remark-prismjs"
           },
           {
-            "resolve": "/var/www/nedreact/node_modules/gatsby-remark-copy-linked-files",
+            "resolve": "/Users/smorrissey/React/ned/ned/node_modules/gatsby-remark-copy-linked-files",
             "id": "Plugin gatsby-remark-copy-linked-files",
             "name": "gatsby-remark-copy-linked-files",
             "version": "1.5.4",
             "pluginOptions": {
               "plugins": []
             },
-            "pluginFilepath": "/var/www/nedreact/node_modules/gatsby-remark-copy-linked-files"
+            "pluginFilepath": "/Users/smorrissey/React/ned/ned/node_modules/gatsby-remark-copy-linked-files"
           },
           {
-            "resolve": "/var/www/nedreact/node_modules/gatsby-remark-smartypants",
+            "resolve": "/Users/smorrissey/React/ned/ned/node_modules/gatsby-remark-smartypants",
             "id": "Plugin gatsby-remark-smartypants",
             "name": "gatsby-remark-smartypants",
             "version": "1.4.5",
             "pluginOptions": {
               "plugins": []
             },
-            "pluginFilepath": "/var/www/nedreact/node_modules/gatsby-remark-smartypants"
+            "pluginFilepath": "/Users/smorrissey/React/ned/ned/node_modules/gatsby-remark-smartypants"
           }
         ]
       },
-      "pluginFilepath": "/var/www/nedreact/node_modules/gatsby-transformer-remark",
+      "pluginFilepath": "/Users/smorrissey/React/ned/ned/node_modules/gatsby-transformer-remark",
       "packageJson": {
         "name": "gatsby-transformer-remark",
         "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
@@ -435,13 +426,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "a5a7d84a7b2021edce594c0f4bafc98a",
+        "contentDigest": "83ef90bbf2086f1c0b9e4e4331bd5430",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-remark-images": {
-      "resolve": "/var/www/nedreact/node_modules/gatsby-remark-images",
+      "resolve": "/Users/smorrissey/React/ned/ned/node_modules/gatsby-remark-images",
       "id": "Plugin gatsby-remark-images",
       "name": "gatsby-remark-images",
       "version": "1.5.7",
@@ -449,18 +440,9 @@
         "plugins": [],
         "maxWidth": 750,
         "linkImagesToOriginal": false,
-        "wrapperStyle": "margin-bottom: 1.0725rem;",
-        "backgroundColor": "white",
-        "pathPrefix": "",
-        "quality": 50,
-        "jpegProgressive": true,
-        "pngCompressionLevel": 9,
-        "grayscale": false,
-        "duotone": false,
-        "toFormat": "",
-        "sizes": "(max-width: 750px) 100vw, 750px"
+        "wrapperStyle": "margin-bottom: 1.0725rem;"
       },
-      "pluginFilepath": "/var/www/nedreact/node_modules/gatsby-remark-images",
+      "pluginFilepath": "/Users/smorrissey/React/ned/ned/node_modules/gatsby-remark-images",
       "packageJson": {
         "name": "gatsby-remark-images",
         "description": "Processes images in markdown so they can be used in the production build.",
@@ -526,13 +508,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "3771fa94db02d4af607d39fbef4d526d",
+        "contentDigest": "4ca1a6c8385a2135e5f382d093dbbd01",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-remark-responsive-iframe": {
-      "resolve": "/var/www/nedreact/node_modules/gatsby-remark-responsive-iframe",
+      "resolve": "/Users/smorrissey/React/ned/ned/node_modules/gatsby-remark-responsive-iframe",
       "id": "Plugin gatsby-remark-responsive-iframe",
       "name": "gatsby-remark-responsive-iframe",
       "version": "1.4.5",
@@ -540,7 +522,7 @@
         "plugins": [],
         "wrapperStyle": "margin-bottom: 1.0725rem"
       },
-      "pluginFilepath": "/var/www/nedreact/node_modules/gatsby-remark-responsive-iframe",
+      "pluginFilepath": "/Users/smorrissey/React/ned/ned/node_modules/gatsby-remark-responsive-iframe",
       "packageJson": {
         "name": "gatsby-remark-responsive-iframe",
         "description": "Make iframes in Markdown processed by Remark responsive",
@@ -591,20 +573,20 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "cd358b1d14a6474207cc580383bd6d0e",
+        "contentDigest": "e74ea3dc382befb2cb4c343a1010349a",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-remark-prismjs": {
-      "resolve": "/var/www/nedreact/node_modules/gatsby-remark-prismjs",
+      "resolve": "/Users/smorrissey/React/ned/ned/node_modules/gatsby-remark-prismjs",
       "id": "Plugin gatsby-remark-prismjs",
       "name": "gatsby-remark-prismjs",
       "version": "1.2.2",
       "pluginOptions": {
         "plugins": []
       },
-      "pluginFilepath": "/var/www/nedreact/node_modules/gatsby-remark-prismjs",
+      "pluginFilepath": "/Users/smorrissey/React/ned/ned/node_modules/gatsby-remark-prismjs",
       "packageJson": {
         "name": "gatsby-remark-prismjs",
         "description": "Adds syntax highlighting to code blocks at build time using PrismJS",
@@ -656,20 +638,20 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "41393020e4dcc94cbaed587febbd5f7c",
+        "contentDigest": "f8fe3bdfe3af1f08dd4b7deb73532e68",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-remark-copy-linked-files": {
-      "resolve": "/var/www/nedreact/node_modules/gatsby-remark-copy-linked-files",
+      "resolve": "/Users/smorrissey/React/ned/ned/node_modules/gatsby-remark-copy-linked-files",
       "id": "Plugin gatsby-remark-copy-linked-files",
       "name": "gatsby-remark-copy-linked-files",
       "version": "1.5.4",
       "pluginOptions": {
         "plugins": []
       },
-      "pluginFilepath": "/var/www/nedreact/node_modules/gatsby-remark-copy-linked-files",
+      "pluginFilepath": "/Users/smorrissey/React/ned/ned/node_modules/gatsby-remark-copy-linked-files",
       "packageJson": {
         "name": "gatsby-remark-copy-linked-files",
         "description": "Find files which are linked to from markdown and copy them to the public directory",
@@ -725,20 +707,20 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "3b3aaa687ce3b69e1d3a8c3d8d4dd6d5",
+        "contentDigest": "5ebcc3651f6553ba93ec5e7ffd3e4671",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-remark-smartypants": {
-      "resolve": "/var/www/nedreact/node_modules/gatsby-remark-smartypants",
+      "resolve": "/Users/smorrissey/React/ned/ned/node_modules/gatsby-remark-smartypants",
       "id": "Plugin gatsby-remark-smartypants",
       "name": "gatsby-remark-smartypants",
       "version": "1.4.5",
       "pluginOptions": {
         "plugins": []
       },
-      "pluginFilepath": "/var/www/nedreact/node_modules/gatsby-remark-smartypants",
+      "pluginFilepath": "/Users/smorrissey/React/ned/ned/node_modules/gatsby-remark-smartypants",
       "packageJson": {
         "name": "gatsby-remark-smartypants",
         "description": "Use retext-smartypants to auto-enhance typography of markdown",
@@ -785,20 +767,20 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "107843e0dd1d11e2487b34de5f79cb35",
+        "contentDigest": "8023d36d044f83d3e8d13b56cdd2fb08",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-transformer-sharp": {
-      "resolve": "/var/www/nedreact/node_modules/gatsby-transformer-sharp",
+      "resolve": "/Users/smorrissey/React/ned/ned/node_modules/gatsby-transformer-sharp",
       "id": "Plugin gatsby-transformer-sharp",
       "name": "gatsby-transformer-sharp",
       "version": "1.6.2",
       "pluginOptions": {
         "plugins": []
       },
-      "pluginFilepath": "/var/www/nedreact/node_modules/gatsby-transformer-sharp",
+      "pluginFilepath": "/Users/smorrissey/React/ned/ned/node_modules/gatsby-transformer-sharp",
       "packageJson": {
         "name": "gatsby-transformer-sharp",
         "description": "Gatsby transformer plugin for images using Sharp",
@@ -845,20 +827,20 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "f5b7dbff9d038779eb2b29ea93632f85",
+        "contentDigest": "e577c75f4c5620cda7f2439bc164db8e",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-sass": {
-      "resolve": "/var/www/nedreact/node_modules/gatsby-plugin-sass",
+      "resolve": "/Users/smorrissey/React/ned/ned/node_modules/gatsby-plugin-sass",
       "id": "Plugin gatsby-plugin-sass",
       "name": "gatsby-plugin-sass",
       "version": "1.0.6",
       "pluginOptions": {
         "plugins": []
       },
-      "pluginFilepath": "/var/www/nedreact/node_modules/gatsby-plugin-sass",
+      "pluginFilepath": "/Users/smorrissey/React/ned/ned/node_modules/gatsby-plugin-sass",
       "packageJson": {
         "name": "gatsby-plugin-sass",
         "description": "Gatsby plugin to handle scss/sass files",
@@ -913,20 +895,20 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "afb3da49033ef84b3c03405f66c3d8ea",
+        "contentDigest": "ad2591c2e6e71e9b6319b2b1f36a3f1d",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-sharp": {
-      "resolve": "/var/www/nedreact/node_modules/gatsby-plugin-sharp",
+      "resolve": "/Users/smorrissey/React/ned/ned/node_modules/gatsby-plugin-sharp",
       "id": "Plugin gatsby-plugin-sharp",
       "name": "gatsby-plugin-sharp",
       "version": "1.6.3",
       "pluginOptions": {
         "plugins": []
       },
-      "pluginFilepath": "/var/www/nedreact/node_modules/gatsby-plugin-sharp",
+      "pluginFilepath": "/Users/smorrissey/React/ned/ned/node_modules/gatsby-plugin-sharp",
       "packageJson": {
         "name": "gatsby-plugin-sharp",
         "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
@@ -993,20 +975,20 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "a4bc29d891c9f1ced83a697c90ce50e9",
+        "contentDigest": "e85f2467b9dc871ea36414f8ea261f44",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-google-analytics": {
-      "resolve": "/var/www/nedreact/node_modules/gatsby-plugin-google-analytics",
+      "resolve": "/Users/smorrissey/React/ned/ned/node_modules/gatsby-plugin-google-analytics",
       "id": "Plugin gatsby-plugin-google-analytics",
       "name": "gatsby-plugin-google-analytics",
       "version": "1.0.5",
       "pluginOptions": {
         "plugins": []
       },
-      "pluginFilepath": "/var/www/nedreact/node_modules/gatsby-plugin-google-analytics",
+      "pluginFilepath": "/Users/smorrissey/React/ned/ned/node_modules/gatsby-plugin-google-analytics",
       "packageJson": {
         "name": "gatsby-plugin-google-analytics",
         "description": "Gatsby plugin to add google analytics onto a site",
@@ -1041,20 +1023,20 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "f8c4075ef072968bda548c4b0aded6d1",
+        "contentDigest": "2d1277269caec997a6ce51dd6f0390cf",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-offline": {
-      "resolve": "/var/www/nedreact/node_modules/gatsby-plugin-offline",
+      "resolve": "/Users/smorrissey/React/ned/ned/node_modules/gatsby-plugin-offline",
       "id": "Plugin gatsby-plugin-offline",
       "name": "gatsby-plugin-offline",
       "version": "1.0.7",
       "pluginOptions": {
         "plugins": []
       },
-      "pluginFilepath": "/var/www/nedreact/node_modules/gatsby-plugin-offline",
+      "pluginFilepath": "/Users/smorrissey/React/ned/ned/node_modules/gatsby-plugin-offline",
       "packageJson": {
         "name": "gatsby-plugin-offline",
         "description": "Gatsby plugin which sets up a site to be able to run offline",
@@ -1095,20 +1077,20 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "a61a298aabd60ced8a95f34a702408d8",
+        "contentDigest": "e68dab656d26096a90abcd1bac86cc1c",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-react-helmet": {
-      "resolve": "/var/www/nedreact/node_modules/gatsby-plugin-react-helmet",
+      "resolve": "/Users/smorrissey/React/ned/ned/node_modules/gatsby-plugin-react-helmet",
       "id": "Plugin gatsby-plugin-react-helmet",
       "name": "gatsby-plugin-react-helmet",
       "version": "1.0.4",
       "pluginOptions": {
         "plugins": []
       },
-      "pluginFilepath": "/var/www/nedreact/node_modules/gatsby-plugin-react-helmet",
+      "pluginFilepath": "/Users/smorrissey/React/ned/ned/node_modules/gatsby-plugin-react-helmet",
       "packageJson": {
         "name": "gatsby-plugin-react-helmet",
         "description": "Stub description for gatsby-plugin-react-helmet",
@@ -1144,20 +1126,20 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "5d0c1ef7c438115138fcc4a126e91cec",
+        "contentDigest": "d76c4a0f3d3b4d47ca86f0911f7a398b",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin default-site-plugin": {
-      "resolve": "/var/www/nedreact",
+      "resolve": "/Users/smorrissey/React/ned/ned",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
       "version": "f135ebcb5e9358e403d0cb6655286bb5",
       "pluginOptions": {
         "plugins": []
       },
-      "pluginFilepath": "/var/www/nedreact",
+      "pluginFilepath": "/Users/smorrissey/React/ned/ned",
       "packageJson": {
         "name": "gatsby-starter-bootstrap",
         "description": "Simple starter for Gatsby",
@@ -1357,7 +1339,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "0a7b8eed50bbaf4e81ba1c42ac239117",
+        "contentDigest": "e8b005777b05744c01286a3c0768ca82",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1371,18 +1353,18 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-08-29T13:24:47.938Z",
+      "buildTime": "2017-08-29T14:47:36.763Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "6bd9df92790287e2d4d0f9783a1aaa3b",
+        "contentDigest": "ad0d1433a35405213573ae6bcf124943",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
     },
-    "/var/www/nedreact/src/pages/index.js absPath of file": {
-      "id": "/var/www/nedreact/src/pages/index.js absPath of file",
+    "/Users/smorrissey/React/ned/ned/src/pages/index.js absPath of file": {
+      "id": "/Users/smorrissey/React/ned/ned/src/pages/index.js absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
@@ -1392,83 +1374,36 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/var/www/nedreact/src/pages/index.js",
+      "absolutePath": "/Users/smorrissey/React/ned/ned/src/pages/index.js",
       "relativePath": "index.js",
       "extension": "js",
       "size": 1500,
       "prettySize": "1.5 kB",
-      "modifiedTime": "2017-08-29T05:22:52.737Z",
-      "accessTime": "2017-08-29T13:24:52.198Z",
-      "changeTime": "2017-08-29T05:22:52.737Z",
-      "birthTime": "2017-08-29T05:22:52.737Z",
+      "modifiedTime": "2017-08-29T14:40:01.000Z",
+      "accessTime": "2017-08-29T14:41:06.000Z",
+      "changeTime": "2017-08-29T14:40:01.000Z",
+      "birthTime": "2017-08-29T14:40:01.000Z",
       "root": "/",
-      "dir": "/var/www/nedreact/src/pages",
+      "dir": "/Users/smorrissey/React/ned/ned/src/pages",
       "base": "index.js",
       "ext": ".js",
       "name": "index",
-      "dev": 2055,
-      "mode": 33204,
+      "dev": 16777220,
+      "mode": 33188,
       "nlink": 1,
-      "uid": 1000,
-      "gid": 1000,
+      "uid": 385620560,
+      "gid": 932231305,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 268394,
+      "ino": 8551580,
       "blocks": 8,
-      "atimeMs": 1504013092198.4844,
-      "mtimeMs": 1503984172736.9146,
-      "ctimeMs": 1503984172736.9146,
-      "birthtimeMs": 1503984172736.9146,
-      "atime": "2017-08-29T13:24:52.198Z",
-      "mtime": "2017-08-29T05:22:52.737Z",
-      "ctime": "2017-08-29T05:22:52.737Z",
-      "birthtime": "2017-08-29T05:22:52.737Z"
+      "atime": "2017-08-29T14:41:06.000Z",
+      "mtime": "2017-08-29T14:40:01.000Z",
+      "ctime": "2017-08-29T14:40:01.000Z",
+      "birthtime": "2017-08-29T14:40:01.000Z"
     },
-    "/var/www/nedreact/src/pages/robots.txt absPath of file": {
-      "id": "/var/www/nedreact/src/pages/robots.txt absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "b6216d61c03e6ce0c9aea6ca7808f7ca",
-        "mediaType": "text/plain",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/var/www/nedreact/src/pages/robots.txt",
-      "relativePath": "robots.txt",
-      "extension": "txt",
-      "size": 24,
-      "prettySize": "24 B",
-      "modifiedTime": "2017-08-29T05:22:52.737Z",
-      "accessTime": "2017-08-29T13:24:52.198Z",
-      "changeTime": "2017-08-29T05:22:52.737Z",
-      "birthTime": "2017-08-29T05:22:52.737Z",
-      "root": "/",
-      "dir": "/var/www/nedreact/src/pages",
-      "base": "robots.txt",
-      "ext": ".txt",
-      "name": "robots",
-      "dev": 2055,
-      "mode": 33204,
-      "nlink": 1,
-      "uid": 1000,
-      "gid": 1000,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 268397,
-      "blocks": 8,
-      "atimeMs": 1504013092198.4844,
-      "mtimeMs": 1503984172736.9146,
-      "ctimeMs": 1503984172736.9146,
-      "birthtimeMs": 1503984172736.9146,
-      "atime": "2017-08-29T13:24:52.198Z",
-      "mtime": "2017-08-29T05:22:52.737Z",
-      "ctime": "2017-08-29T05:22:52.737Z",
-      "birthtime": "2017-08-29T05:22:52.737Z"
-    },
-    "/var/www/nedreact/src/pages/profile/index.jsx absPath of file": {
-      "id": "/var/www/nedreact/src/pages/profile/index.jsx absPath of file",
+    "/Users/smorrissey/React/ned/ned/src/pages/profile/index.jsx absPath of file": {
+      "id": "/Users/smorrissey/React/ned/ned/src/pages/profile/index.jsx absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
@@ -1478,42 +1413,77 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/var/www/nedreact/src/pages/profile/index.jsx",
+      "absolutePath": "/Users/smorrissey/React/ned/ned/src/pages/profile/index.jsx",
       "relativePath": "profile/index.jsx",
       "extension": "jsx",
       "size": 7447,
       "prettySize": "7.45 kB",
-      "modifiedTime": "2017-08-29T05:22:52.737Z",
-      "accessTime": "2017-08-29T13:24:52.198Z",
-      "changeTime": "2017-08-29T05:22:52.737Z",
-      "birthTime": "2017-08-29T05:22:52.737Z",
+      "modifiedTime": "2017-08-29T14:40:01.000Z",
+      "accessTime": "2017-08-29T14:41:06.000Z",
+      "changeTime": "2017-08-29T14:40:01.000Z",
+      "birthTime": "2017-08-29T14:40:01.000Z",
       "root": "/",
-      "dir": "/var/www/nedreact/src/pages/profile",
+      "dir": "/Users/smorrissey/React/ned/ned/src/pages/profile",
       "base": "index.jsx",
       "ext": ".jsx",
       "name": "index",
-      "dev": 2055,
-      "mode": 33204,
+      "dev": 16777220,
+      "mode": 33188,
       "nlink": 1,
-      "uid": 1000,
-      "gid": 1000,
+      "uid": 385620560,
+      "gid": 932231305,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 268396,
+      "ino": 8551582,
       "blocks": 16,
-      "atimeMs": 1504013092198.4844,
-      "mtimeMs": 1503984172736.9146,
-      "ctimeMs": 1503984172736.9146,
-      "birthtimeMs": 1503984172736.9146,
-      "atime": "2017-08-29T13:24:52.198Z",
-      "mtime": "2017-08-29T05:22:52.737Z",
-      "ctime": "2017-08-29T05:22:52.737Z",
-      "birthtime": "2017-08-29T05:22:52.737Z"
+      "atime": "2017-08-29T14:41:06.000Z",
+      "mtime": "2017-08-29T14:40:01.000Z",
+      "ctime": "2017-08-29T14:40:01.000Z",
+      "birthtime": "2017-08-29T14:40:01.000Z"
     },
-    "/var/www/nedreact/src/pages/articles/2015-05-01-hello-world/index.md absPath of file": {
-      "id": "/var/www/nedreact/src/pages/articles/2015-05-01-hello-world/index.md absPath of file",
+    "/Users/smorrissey/React/ned/ned/src/pages/robots.txt absPath of file": {
+      "id": "/Users/smorrissey/React/ned/ned/src/pages/robots.txt absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+        "mediaType": "text/plain",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/smorrissey/React/ned/ned/src/pages/robots.txt",
+      "relativePath": "robots.txt",
+      "extension": "txt",
+      "size": 24,
+      "prettySize": "24 B",
+      "modifiedTime": "2017-08-29T14:40:01.000Z",
+      "accessTime": "2017-08-29T14:41:06.000Z",
+      "changeTime": "2017-08-29T14:40:01.000Z",
+      "birthTime": "2017-08-29T14:40:01.000Z",
+      "root": "/",
+      "dir": "/Users/smorrissey/React/ned/ned/src/pages",
+      "base": "robots.txt",
+      "ext": ".txt",
+      "name": "robots",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 385620560,
+      "gid": 932231305,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8551583,
+      "blocks": 8,
+      "atime": "2017-08-29T14:41:06.000Z",
+      "mtime": "2017-08-29T14:40:01.000Z",
+      "ctime": "2017-08-29T14:40:01.000Z",
+      "birthtime": "2017-08-29T14:40:01.000Z"
+    },
+    "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-01-hello-world/index.md absPath of file": {
+      "id": "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-01-hello-world/index.md absPath of file",
       "children": [
-        "/var/www/nedreact/src/pages/articles/2015-05-01-hello-world/index.md absPath of file >>> MarkdownRemark"
+        "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-01-hello-world/index.md absPath of file >>> MarkdownRemark"
       ],
       "parent": "___SOURCE___",
       "internal": {
@@ -1523,87 +1493,38 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/var/www/nedreact/src/pages/articles/2015-05-01-hello-world/index.md",
+      "absolutePath": "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-01-hello-world/index.md",
       "relativePath": "articles/2015-05-01-hello-world/index.md",
       "extension": "md",
       "size": 17295,
       "prettySize": "17.3 kB",
-      "modifiedTime": "2017-08-29T05:22:52.725Z",
-      "accessTime": "2017-08-29T13:24:52.198Z",
-      "changeTime": "2017-08-29T05:22:52.725Z",
-      "birthTime": "2017-08-29T05:22:52.725Z",
+      "modifiedTime": "2017-08-29T14:40:01.000Z",
+      "accessTime": "2017-08-29T14:41:06.000Z",
+      "changeTime": "2017-08-29T14:40:01.000Z",
+      "birthTime": "2017-08-29T14:40:01.000Z",
       "root": "/",
-      "dir": "/var/www/nedreact/src/pages/articles/2015-05-01-hello-world",
+      "dir": "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-01-hello-world",
       "base": "index.md",
       "ext": ".md",
       "name": "index",
-      "dev": 2055,
-      "mode": 33277,
+      "dev": 16777220,
+      "mode": 33261,
       "nlink": 1,
-      "uid": 1000,
-      "gid": 1000,
+      "uid": 385620560,
+      "gid": 932231305,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 268388,
+      "ino": 8551574,
       "blocks": 40,
-      "atimeMs": 1504013092198.4844,
-      "mtimeMs": 1503984172724.9143,
-      "ctimeMs": 1503984172724.9143,
-      "birthtimeMs": 1503984172724.9143,
-      "atime": "2017-08-29T13:24:52.198Z",
-      "mtime": "2017-08-29T05:22:52.725Z",
-      "ctime": "2017-08-29T05:22:52.725Z",
-      "birthtime": "2017-08-29T05:22:52.725Z"
+      "atime": "2017-08-29T14:41:06.000Z",
+      "mtime": "2017-08-29T14:40:01.000Z",
+      "ctime": "2017-08-29T14:40:01.000Z",
+      "birthtime": "2017-08-29T14:40:01.000Z"
     },
-    "/var/www/nedreact/src/pages/articles/2015-05-28-hi-folks/index.md absPath of file": {
-      "id": "/var/www/nedreact/src/pages/articles/2015-05-28-hi-folks/index.md absPath of file",
+    "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-06-my-second-post/index.md absPath of file": {
+      "id": "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-06-my-second-post/index.md absPath of file",
       "children": [
-        "/var/www/nedreact/src/pages/articles/2015-05-28-hi-folks/index.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "cfad94e508a0350bb7f4eeedc59f523b",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/var/www/nedreact/src/pages/articles/2015-05-28-hi-folks/index.md",
-      "relativePath": "articles/2015-05-28-hi-folks/index.md",
-      "extension": "md",
-      "size": 4189,
-      "prettySize": "4.19 kB",
-      "modifiedTime": "2017-08-29T05:22:52.733Z",
-      "accessTime": "2017-08-29T13:24:52.198Z",
-      "changeTime": "2017-08-29T05:22:52.733Z",
-      "birthTime": "2017-08-29T05:22:52.733Z",
-      "root": "/",
-      "dir": "/var/www/nedreact/src/pages/articles/2015-05-28-hi-folks",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "dev": 2055,
-      "mode": 33277,
-      "nlink": 1,
-      "uid": 1000,
-      "gid": 1000,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 268393,
-      "blocks": 16,
-      "atimeMs": 1504013092198.4844,
-      "mtimeMs": 1503984172732.9146,
-      "ctimeMs": 1503984172732.9146,
-      "birthtimeMs": 1503984172732.9146,
-      "atime": "2017-08-29T13:24:52.198Z",
-      "mtime": "2017-08-29T05:22:52.733Z",
-      "ctime": "2017-08-29T05:22:52.733Z",
-      "birthtime": "2017-08-29T05:22:52.733Z"
-    },
-    "/var/www/nedreact/src/pages/articles/2015-05-06-my-second-post/index.md absPath of file": {
-      "id": "/var/www/nedreact/src/pages/articles/2015-05-06-my-second-post/index.md absPath of file",
-      "children": [
-        "/var/www/nedreact/src/pages/articles/2015-05-06-my-second-post/index.md absPath of file >>> MarkdownRemark"
+        "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-06-my-second-post/index.md absPath of file >>> MarkdownRemark"
       ],
       "parent": "___SOURCE___",
       "internal": {
@@ -1613,42 +1534,79 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/var/www/nedreact/src/pages/articles/2015-05-06-my-second-post/index.md",
+      "absolutePath": "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-06-my-second-post/index.md",
       "relativePath": "articles/2015-05-06-my-second-post/index.md",
       "extension": "md",
       "size": 634,
       "prettySize": "634 B",
-      "modifiedTime": "2017-08-29T05:22:52.733Z",
-      "accessTime": "2017-08-29T13:24:52.198Z",
-      "changeTime": "2017-08-29T05:22:52.733Z",
-      "birthTime": "2017-08-29T05:22:52.733Z",
+      "modifiedTime": "2017-08-29T14:40:01.000Z",
+      "accessTime": "2017-08-29T14:41:06.000Z",
+      "changeTime": "2017-08-29T14:40:01.000Z",
+      "birthTime": "2017-08-29T14:40:01.000Z",
       "root": "/",
-      "dir": "/var/www/nedreact/src/pages/articles/2015-05-06-my-second-post",
+      "dir": "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-06-my-second-post",
       "base": "index.md",
       "ext": ".md",
       "name": "index",
-      "dev": 2055,
-      "mode": 33277,
+      "dev": 16777220,
+      "mode": 33261,
       "nlink": 1,
-      "uid": 1000,
-      "gid": 1000,
+      "uid": 385620560,
+      "gid": 932231305,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 268391,
+      "ino": 8551577,
       "blocks": 8,
-      "atimeMs": 1504013092198.4844,
-      "mtimeMs": 1503984172732.9146,
-      "ctimeMs": 1503984172732.9146,
-      "birthtimeMs": 1503984172732.9146,
-      "atime": "2017-08-29T13:24:52.198Z",
-      "mtime": "2017-08-29T05:22:52.733Z",
-      "ctime": "2017-08-29T05:22:52.733Z",
-      "birthtime": "2017-08-29T05:22:52.733Z"
+      "atime": "2017-08-29T14:41:06.000Z",
+      "mtime": "2017-08-29T14:40:01.000Z",
+      "ctime": "2017-08-29T14:40:01.000Z",
+      "birthtime": "2017-08-29T14:40:01.000Z"
     },
-    "/var/www/nedreact/src/pages/articles/2015-05-01-hello-world/Gutenberg.jpg absPath of file": {
-      "id": "/var/www/nedreact/src/pages/articles/2015-05-01-hello-world/Gutenberg.jpg absPath of file",
+    "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-28-hi-folks/index.md absPath of file": {
+      "id": "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-28-hi-folks/index.md absPath of file",
       "children": [
-        "/var/www/nedreact/src/pages/articles/2015-05-01-hello-world/Gutenberg.jpg absPath of file >> ImageSharp"
+        "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-28-hi-folks/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "cfad94e508a0350bb7f4eeedc59f523b",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-28-hi-folks/index.md",
+      "relativePath": "articles/2015-05-28-hi-folks/index.md",
+      "extension": "md",
+      "size": 4189,
+      "prettySize": "4.19 kB",
+      "modifiedTime": "2017-08-29T14:40:01.000Z",
+      "accessTime": "2017-08-29T14:41:07.000Z",
+      "changeTime": "2017-08-29T14:40:01.000Z",
+      "birthTime": "2017-08-29T14:40:01.000Z",
+      "root": "/",
+      "dir": "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-28-hi-folks",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "dev": 16777220,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 385620560,
+      "gid": 932231305,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8551579,
+      "blocks": 16,
+      "atime": "2017-08-29T14:41:07.000Z",
+      "mtime": "2017-08-29T14:40:01.000Z",
+      "ctime": "2017-08-29T14:40:01.000Z",
+      "birthtime": "2017-08-29T14:40:01.000Z"
+    },
+    "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-01-hello-world/Gutenberg.jpg absPath of file": {
+      "id": "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-01-hello-world/Gutenberg.jpg absPath of file",
+      "children": [
+        "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-01-hello-world/Gutenberg.jpg absPath of file >> ImageSharp"
       ],
       "parent": "___SOURCE___",
       "internal": {
@@ -1658,52 +1616,48 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/var/www/nedreact/src/pages/articles/2015-05-01-hello-world/Gutenberg.jpg",
+      "absolutePath": "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-01-hello-world/Gutenberg.jpg",
       "relativePath": "articles/2015-05-01-hello-world/Gutenberg.jpg",
       "extension": "jpg",
       "size": 155002,
       "prettySize": "155 kB",
-      "modifiedTime": "2017-08-29T05:22:52.721Z",
-      "accessTime": "2017-08-29T13:24:52.198Z",
-      "changeTime": "2017-08-29T05:22:52.721Z",
-      "birthTime": "2017-08-29T05:22:52.721Z",
+      "modifiedTime": "2017-08-29T14:40:01.000Z",
+      "accessTime": "2017-08-29T14:41:07.000Z",
+      "changeTime": "2017-08-29T14:40:01.000Z",
+      "birthTime": "2017-08-29T14:40:01.000Z",
       "root": "/",
-      "dir": "/var/www/nedreact/src/pages/articles/2015-05-01-hello-world",
+      "dir": "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-01-hello-world",
       "base": "Gutenberg.jpg",
       "ext": ".jpg",
       "name": "Gutenberg",
-      "dev": 2055,
-      "mode": 33277,
+      "dev": 16777220,
+      "mode": 33261,
       "nlink": 1,
-      "uid": 1000,
-      "gid": 1000,
+      "uid": 385620560,
+      "gid": 932231305,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 268386,
+      "ino": 8551572,
       "blocks": 304,
-      "atimeMs": 1504013092198.4844,
-      "mtimeMs": 1503984172720.9143,
-      "ctimeMs": 1503984172720.9143,
-      "birthtimeMs": 1503984172720.9143,
-      "atime": "2017-08-29T13:24:52.198Z",
-      "mtime": "2017-08-29T05:22:52.721Z",
-      "ctime": "2017-08-29T05:22:52.721Z",
-      "birthtime": "2017-08-29T05:22:52.721Z"
+      "atime": "2017-08-29T14:41:07.000Z",
+      "mtime": "2017-08-29T14:40:01.000Z",
+      "ctime": "2017-08-29T14:40:01.000Z",
+      "birthtime": "2017-08-29T14:40:01.000Z"
     },
-    "/var/www/nedreact/src/pages/articles/2015-05-01-hello-world/Gutenberg.jpg absPath of file >> ImageSharp": {
-      "id": "/var/www/nedreact/src/pages/articles/2015-05-01-hello-world/Gutenberg.jpg absPath of file >> ImageSharp",
+    "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-01-hello-world/Gutenberg.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-01-hello-world/Gutenberg.jpg absPath of file >> ImageSharp",
       "children": [],
-      "parent": "/var/www/nedreact/src/pages/articles/2015-05-01-hello-world/Gutenberg.jpg absPath of file",
+      "parent": "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-01-hello-world/Gutenberg.jpg absPath of file",
       "internal": {
         "contentDigest": "3e20438298edd3a3fa746766d803f379",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "/var/www/nedreact/src/pages/articles/2015-05-01-hello-world/Printing-press.png absPath of file": {
-      "id": "/var/www/nedreact/src/pages/articles/2015-05-01-hello-world/Printing-press.png absPath of file",
+    "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-01-hello-world/Printing-press.png absPath of file": {
+      "id": "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-01-hello-world/Printing-press.png absPath of file",
       "children": [
-        "/var/www/nedreact/src/pages/articles/2015-05-01-hello-world/Printing-press.png absPath of file >> ImageSharp"
+        "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-01-hello-world/Printing-press.png absPath of file >> ImageSharp"
       ],
       "parent": "___SOURCE___",
       "internal": {
@@ -1713,52 +1667,38 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/var/www/nedreact/src/pages/articles/2015-05-01-hello-world/Printing-press.png",
+      "absolutePath": "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-01-hello-world/Printing-press.png",
       "relativePath": "articles/2015-05-01-hello-world/Printing-press.png",
       "extension": "png",
       "size": 326701,
       "prettySize": "327 kB",
-      "modifiedTime": "2017-08-29T05:22:52.725Z",
-      "accessTime": "2017-08-29T13:24:52.198Z",
-      "changeTime": "2017-08-29T05:22:52.725Z",
-      "birthTime": "2017-08-29T05:22:52.725Z",
+      "modifiedTime": "2017-08-29T14:40:01.000Z",
+      "accessTime": "2017-08-29T14:41:07.000Z",
+      "changeTime": "2017-08-29T14:40:01.000Z",
+      "birthTime": "2017-08-29T14:40:01.000Z",
       "root": "/",
-      "dir": "/var/www/nedreact/src/pages/articles/2015-05-01-hello-world",
+      "dir": "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-01-hello-world",
       "base": "Printing-press.png",
       "ext": ".png",
       "name": "Printing-press",
-      "dev": 2055,
-      "mode": 33277,
+      "dev": 16777220,
+      "mode": 33261,
       "nlink": 1,
-      "uid": 1000,
-      "gid": 1000,
+      "uid": 385620560,
+      "gid": 932231305,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 268387,
+      "ino": 8551573,
       "blocks": 640,
-      "atimeMs": 1504013092198.4844,
-      "mtimeMs": 1503984172724.9143,
-      "ctimeMs": 1503984172724.9143,
-      "birthtimeMs": 1503984172724.9143,
-      "atime": "2017-08-29T13:24:52.198Z",
-      "mtime": "2017-08-29T05:22:52.725Z",
-      "ctime": "2017-08-29T05:22:52.725Z",
-      "birthtime": "2017-08-29T05:22:52.725Z"
+      "atime": "2017-08-29T14:41:07.000Z",
+      "mtime": "2017-08-29T14:40:01.000Z",
+      "ctime": "2017-08-29T14:40:01.000Z",
+      "birthtime": "2017-08-29T14:40:01.000Z"
     },
-    "/var/www/nedreact/src/pages/articles/2015-05-01-hello-world/Printing-press.png absPath of file >> ImageSharp": {
-      "id": "/var/www/nedreact/src/pages/articles/2015-05-01-hello-world/Printing-press.png absPath of file >> ImageSharp",
+    "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-01-hello-world/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-01-hello-world/index.md absPath of file >>> MarkdownRemark",
       "children": [],
-      "parent": "/var/www/nedreact/src/pages/articles/2015-05-01-hello-world/Printing-press.png absPath of file",
-      "internal": {
-        "contentDigest": "9ec265253f068855f00558a9be7f3e03",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/var/www/nedreact/src/pages/articles/2015-05-01-hello-world/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/var/www/nedreact/src/pages/articles/2015-05-01-hello-world/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/var/www/nedreact/src/pages/articles/2015-05-01-hello-world/index.md absPath of file",
+      "parent": "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-01-hello-world/index.md absPath of file",
       "internal": {
         "content": "---\ntitle: \"The Birth of Movable Type\"\ndate: \"2016-03-01T22:12:03.284Z\"\nlayout: post\npath: \"/hello-world/\"\ncategories:\n  - Typography\n  - TESTS\ndescription: \"German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible.\"\n---\n\nJohannes Gensfleisch zur Laden zum Gutenberg (c. 1398 – 1468) was a German blacksmith, goldsmith, printer, and publisher who introduced printing to Europe. His invention of mechanical movable type printing started the Printing Revolution and is widely regarded as the most important event of the modern period. It played a key role in the development of the Renaissance, Reformation, the Age of Enlightenment, and the Scientific revolution and laid the material basis for the modern knowledge-based economy and the spread of learning to the masses.\n\n<img height=\"310\" src=\"./Gutenberg.jpg\" alt=\"Gutenberg\">\n<figcaption>Johannes Gutenberg</figcaption>\n\nWith his invention of the printing press, Gutenberg was the first European to use movable type printing, in around 1439. Among his many contributions to printing are: the invention of a process for mass-producing movable type; the use of oil-based ink; and the use of a wooden printing press similar to the agricultural screw presses of the period. His truly epochal invention was the combination of these elements into a practical system that allowed the mass production of printed books and was economically viable for printers and readers alike. Gutenberg's method for making type is traditionally considered to have included a type metal alloy and a hand mould for casting type. The alloy was a mixture of lead, tin, and antimony that melted at a relatively low temperature for faster and more economical casting, cast well, and created a durable type.\n\nIn Renaissance Europe, the arrival of mechanical movable type printing introduced the era of mass communication which permanently altered the structure of society. The relatively unrestricted circulation of information — including revolutionary ideas — transcended borders, captured the masses in the Reformation and threatened the power of political and religious authorities; the sharp increase in literacy broke the monopoly of the literate elite on education and learning and bolstered the emerging middle class. Across Europe, the increasing cultural self-awareness of its people led to the rise of proto-nationalism, accelerated by the flowering of the European vernacular languages to the detriment of Latin's status as lingua franca. In the 19th century, the replacement of the hand-operated Gutenberg-style press by steam-powered rotary presses allowed printing on an industrial scale, while Western-style printing was adopted all over the world, becoming practically the sole medium for modern bulk printing.\n\nThe use of movable type was a marked improvement on the handwritten manuscript, which was the existing method of book production in Europe, and upon woodblock printing, and revolutionized European book-making. Gutenberg's printing technology spread rapidly throughout Europe and later the world.\n\nHis major work, the Gutenberg Bible (also known as the 42-line Bible), has been acclaimed for its high aesthetic and technical quality.\n\n## Printing Press\n\nAround 1439, Gutenberg was involved in a financial misadventure making polished metal mirrors (which were believed to capture holy light from religious relics) for sale to pilgrims to Aachen: in 1439 the city was planning to exhibit its collection of relics from Emperor Charlemagne but the event was delayed by one year due to a severe flood and the capital already spent could not be repaid. When the question of satisfying the investors came up, Gutenberg is said to have promised to share a “secret”. It has been widely speculated that this secret may have been the idea of printing with movable type. Also around 1439–1440, the Dutch Laurens Janszoon Coster came up with the idea of printing. Legend has it that the idea came to him “like a ray of light”.\n\n<img style=\"height: 310px;\" src=\"./Printing-press.png\" alt=\"Early Printing Press\">\n<figcaption>Early wooden printing press as depicted in 1568.</figcaption>\n\n\nUntil at least 1444 he lived in Strasbourg, most likely in the St. Arbogast parish. It was in Strasbourg in 1440 that Gutenberg is said to have perfected and unveiled the secret of printing based on his research, mysteriously entitled Kunst und Aventur (art and enterprise). It is not clear what work he was engaged in, or whether some early trials with printing from movable type may have been conducted there. After this, there is a gap of four years in the record. In 1448, he was back in Mainz, where he took out a loan from his brother-in-law Arnold Gelthus, quite possibly for a printing press or related paraphernalia. By this date, Gutenberg may have been familiar with intaglio printing; it is claimed that he had worked on copper engravings with an artist known as the Master of Playing Cards.\n\nBy 1450, the press was in operation, and a German poem had been printed, possibly the first item to be printed there. Gutenberg was able to convince the wealthy moneylender Johann Fust for a loan of 800 guilders. Peter Schöffer, who became Fust’s son-in-law, also joined the enterprise. Schöffer had worked as a scribe in Paris and is believed to have designed some of the first typefaces.\n\n>All that has been written to me about that marvelous man seen at Frankfurt is true. I have not seen complete Bibles but only a number of quires of various books of the Bible. The script was very neat and legible, not at all difficult to follow—your grace would be able to read it without effort, and indeed without glasses.\n\n—Future pope Pius II in a letter to Cardinal Carvajal, March 1455\n\nGutenberg's workshop was set up at Hof Humbrecht, a property belonging to a distant relative. It is not clear when Gutenberg conceived the Bible project, but for this he borrowed another 800 guilders from Fust, and work commenced in 1452. At the same time, the press was also printing other, more lucrative texts (possibly Latin grammars). There is also some speculation that there may have been two presses, one for the pedestrian texts, and one for the Bible. One of the profit-making enterprises of the new press was the printing of thousands of indulgences for the church, documented from 1454–55.\n\nIn 1455 Gutenberg completed his 42-line Bible, known as the Gutenberg Bible. About 180 copies were printed, most on paper and some on vellum.\n\n## Court Case\n\nSome time in 1456, there was a dispute between Gutenberg and Fust, and Fust demanded his money back, accusing Gutenberg of misusing the funds. Meanwhile the expenses of the Bible project had proliferated, and Gutenberg's debt now exceeded 20,000 guilders. Fust sued at the archbishop's court. A November 1455 legal document records that there was a partnership for a \"project of the books,\" the funds for which Gutenberg had used for other purposes, according to Fust. The court decided in favor of Fust, giving him control over the Bible printing workshop and half of all printed Bibles.\n\nThus Gutenberg was effectively bankrupt, but it appears he retained (or re-started) a small printing shop, and participated in the printing of a Bible in the town of Bamberg around 1459, for which he seems at least to have supplied the type. But since his printed books never carry his name or a date, it is difficult to be certain, and there is consequently a considerable scholarly debate on this subject. It is also possible that the large Catholicon dictionary, 300 copies of 754 pages, printed in Mainz in 1460, may have been executed in his workshop.\n\nMeanwhile, the Fust–Schöffer shop was the first in Europe to bring out a book with the printer's name and date, the Mainz Psalter of August 1457, and while proudly proclaiming the mechanical process by which it had been produced, it made no mention of Gutenberg.\n\n## Later Life\n\nIn 1462, during a conflict between two archbishops, Mainz was sacked by archbishop Adolph von Nassau, and Gutenberg was exiled. An old man by now, he moved to Eltville where he may have initiated and supervised a new printing press belonging to the brothers Bechtermünze.\n\nIn January 1465, Gutenberg's achievements were recognized and he was given the title Hofmann (gentleman of the court) by von Nassau. This honor included a stipend, an annual court outfit, as well as 2,180 litres of grain and 2,000 litres of wine tax-free. It is believed he may have moved back to Mainz around this time, but this is not certain.\n\n***\n\nGutenberg died in 1468 and was buried in the Franciscan church at Mainz, his contributions largely unknown. This church and the cemetery were later destroyed, and Gutenberg's grave is now lost.\n\nIn 1504, he was mentioned as the inventor of typography in a book by Professor Ivo Wittig. It was not until 1567 that the first portrait of Gutenberg, almost certainly an imaginary reconstruction, appeared in Heinrich Pantaleon's biography of famous Germans.\n\n## Printing Method With Movable Type\n\nGutenberg's early printing process, and what tests he may have made with movable type, are not known in great detail. His later Bibles were printed in such a way as to have required large quantities of type, some estimates suggesting as many as 100,000 individual sorts. Setting each page would take, perhaps, half a day, and considering all the work in loading the press, inking the type, pulling the impressions, hanging up the sheets, distributing the type, etc., it is thought that the Gutenberg–Fust shop might have employed as many as 25 craftsmen.\n\n![Movable metal type, and composing stick, descended from Gutenberg's press. Photo by Willi Heidelbach. Licensed under CC BY 2.5](./movable-type.jpg)\n\n*Movable metal type, and composing stick, descended from Gutenberg's press. Photo by Willi Heidelbach. Licensed under CC BY 2.5*\n\nGutenberg's technique of making movable type remains unclear. In the following decades, punches and copper matrices became standardized in the rapidly disseminating printing presses across Europe. Whether Gutenberg used this sophisticated technique or a somewhat primitive version has been the subject of considerable debate.\n\nIn the standard process of making type, a hard metal punch (made by punchcutting, with the letter carved back to front) is hammered into a softer copper bar, creating a matrix. This is then placed into a hand-held mould and a piece of type, or \"sort\", is cast by filling the mould with molten type-metal; this cools almost at once, and the resulting piece of type can be removed from the mould. The matrix can be reused to create hundreds, or thousands, of identical sorts so that the same character appearing anywhere within the book will appear very uniform, giving rise, over time, to the development of distinct styles of typefaces or fonts. After casting, the sorts are arranged into type-cases, and used to make up pages which are inked and printed, a procedure which can be repeated hundreds, or thousands, of times. The sorts can be reused in any combination, earning the process the name of “movable type”.\n\nThe invention of the making of types with punch, matrix and mold has been widely attributed to Gutenberg. However, recent evidence suggests that Gutenberg's process was somewhat different. If he used the punch and matrix approach, all his letters should have been nearly identical, with some variations due to miscasting and inking. However, the type used in Gutenberg's earliest work shows other variations.\n\n<figure>\n\t<blockquote>\n\t\t<p>It is a press, certainly, but a press from which shall flow in inexhaustible streams… Through it, god will spread his word.</p>\n\t\t<footer>\n\t\t\t<cite>—Johannes Gutenberg</cite>\n\t\t</footer>\n\t</blockquote>\n</figure>\n\nIn 2001, the physicist Blaise Agüera y Arcas and Princeton librarian Paul Needham, used digital scans of a Papal bull in the Scheide Library, Princeton, to carefully compare the same letters (types) appearing in different parts of the printed text. The irregularities in Gutenberg's type, particularly in simple characters such as the hyphen, suggested that the variations could not have come from either ink smear or from wear and damage on the pieces of metal on the types themselves. While some identical types are clearly used on other pages, other variations, subjected to detailed image analysis, suggested that they could not have been produced from the same matrix. Transmitted light pictures of the page also appeared to reveal substructures in the type that could not arise from traditional punchcutting techniques. They hypothesized that the method may have involved impressing simple shapes to create alphabets in “cuneiform” style in a matrix made of some soft material, perhaps sand. Casting the type would destroy the mould, and the matrix would need to be recreated to make each additional sort. This could explain the variations in the type, as well as the substructures observed in the printed images.\n\nThus, they feel that “the decisive factor for the birth of typography”, the use of reusable moulds for casting type, might have been a more progressive process than was previously thought. They suggest that the additional step of using the punch to create a mould that could be reused many times was not taken until twenty years later, in the 1470s. Others have not accepted some or all of their suggestions, and have interpreted the evidence in other ways, and the truth of the matter remains very uncertain.\n\nA 1568 history by Hadrianus Junius of Holland claims that the basic idea of the movable type came to Gutenberg from Laurens Janszoon Coster via Fust, who was apprenticed to Coster in the 1430s and may have brought some of his equipment from Haarlem to Mainz. While Coster appears to have experimented with moulds and castable metal type, there is no evidence that he had actually printed anything with this technology. He was an inventor and a goldsmith. However, there is one indirect supporter of the claim that Coster might be the inventor. The author of the Cologne Chronicle of 1499 quotes Ulrich Zell, the first printer of Cologne, that printing was performed in Mainz in 1450, but that some type of printing of lower quality had previously occurred in the Netherlands. However, the chronicle does not mention the name of Coster, while it actually credits Gutenberg as the \"first inventor of printing\" in the very same passage (fol. 312). The first securely dated book by Dutch printers is from 1471, and the Coster connection is today regarded as a mere legend.\n\nThe 19th century printer and typefounder Fournier Le Jeune suggested that Gutenberg might not have been using type cast with a reusable matrix, but possibly wooden types that were carved individually. A similar suggestion was made by Nash in 2004. This remains possible, albeit entirely unproven.\n\nIt has also been questioned whether Gutenberg used movable types at all. In 2004, Italian professor Bruno Fabbiani claimed that examination of the 42-line Bible revealed an overlapping of letters, suggesting that Gutenberg did not in fact use movable type (individual cast characters) but rather used whole plates made from a system somewhat like a modern typewriter, whereby the letters were stamped successively into the plate and then printed. However, most specialists regard the occasional overlapping of type as caused by paper movement over pieces of type of slightly unequal height.\n\n## Legacy\n\nAlthough Gutenberg was financially unsuccessful in his lifetime, the printing technologies spread quickly, and news and books began to travel across Europe much faster than before. It fed the growing Renaissance, and since it greatly facilitated scientific publishing, it was a major catalyst for the later scientific revolution.\n\nThe capital of printing in Europe shifted to Venice, where visionary printers like Aldus Manutius ensured widespread availability of the major Greek and Latin texts. The claims of an Italian origin for movable type have also focused on this rapid rise of Italy in movable-type printing. This may perhaps be explained by the prior eminence of Italy in the paper and printing trade. Additionally, Italy's economy was growing rapidly at the time, facilitating the spread of literacy. Christopher Columbus had a geographical book (printed by movable types) bought by his father. That book is in a Spanish museum. Finally, the city of Mainz was sacked in 1462, driving many (including a number of printers and punch cutters) into exile.\n\nPrinting was also a factor in the Reformation. Martin Luther's 95 Theses were printed and circulated widely; subsequently he issued broadsheets outlining his anti-indulgences position (certificates of indulgences were one of the first items Gutenberg had printed). The broadsheet contributed to development of the newspaper.\n\nIn the decades after Gutenberg, many conservative patrons looked down on cheap printed books; books produced by hand were considered more desirable.\n\nToday there is a large antique market for the earliest printed objects. Books printed prior to 1500 are known as incunabula.",
         "contentDigest": "1b181289e6f6056a85fc58fdb8bb80f8",
@@ -1775,37 +1715,14 @@
           "TESTS"
         ],
         "description": "German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible.",
-        "parent": "/var/www/nedreact/src/pages/articles/2015-05-01-hello-world/index.md absPath of file"
+        "parent": "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-01-hello-world/index.md absPath of file"
       },
-      "fileAbsolutePath": "/var/www/nedreact/src/pages/articles/2015-05-01-hello-world/index.md"
+      "fileAbsolutePath": "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-01-hello-world/index.md"
     },
-    "/var/www/nedreact/src/pages/articles/2015-05-28-hi-folks/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/var/www/nedreact/src/pages/articles/2015-05-28-hi-folks/index.md absPath of file >>> MarkdownRemark",
+    "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-06-my-second-post/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-06-my-second-post/index.md absPath of file >>> MarkdownRemark",
       "children": [],
-      "parent": "/var/www/nedreact/src/pages/articles/2015-05-28-hi-folks/index.md absPath of file",
-      "internal": {
-        "content": "---\ntitle: New Beginnings\ndate: \"2015-05-28T22:40:32.169Z\"\nlayout: post\npath: \"/hi-folks/\"\ncategories:\n  - FrontEnd\ndescription: \"Employment, gender, breakthrough insights carbon emissions reductions peaceful, sharing economy Angelina Jolie accelerate, inclusive capitalism research inspire social change social good informal economies minority. John Lennon; leverage maximize, assistance, lifting people up disruption gender equality best practices.\"\n---\n\n*This post is going to be a little hard to read for those that don't speak latin.*\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vel neque dignissim mi maximus interdum. Cras dictum quam et ex molestie facilisis. Proin dapibus sed sapien nec gravida. Praesent at leo ut erat varius rhoncus at non mi. Quisque cursus non leo et varius. Maecenas porttitor scelerisque sapien at venenatis. Proin pellentesque gravida elementum. Nam eget porttitor ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean nec commodo lacus, eu mollis nisi. Nullam felis mi, tempus ac ipsum a, venenatis blandit magna. Sed mattis magna est, quis tincidunt massa aliquam vitae. Ut in ipsum blandit, ultrices lacus a, condimentum nibh. Sed commodo, lorem eget interdum molestie, lacus nisi lacinia velit, tempus commodo lacus erat porttitor dolor.\n\nPhasellus vitae ante justo. Fusce dui elit, finibus non posuere sed, ullamcorper at odio. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque molestie lorem dolor, eget tincidunt ligula suscipit sit amet. Maecenas tempor nulla orci, sed scelerisque massa convallis id. Fusce iaculis nibh et lectus bibendum viverra. Nulla volutpat vehicula tortor non cursus. Maecenas vulputate mi nec accumsan ultricies. Praesent vitae tellus ligula. Praesent placerat fringilla purus, ac fermentum ipsum faucibus sed. Fusce semper, sapien hendrerit fringilla sagittis, lacus felis accumsan tellus, ac mollis ex arcu vitae lorem. Duis vitae semper felis. Duis consectetur, diam id laoreet suscipit, felis felis imperdiet sem, vel posuere leo ligula nec sapien. Maecenas at imperdiet nulla. Quisque quam nibh, feugiat vitae rhoncus ac, hendrerit eu quam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nNullam vehicula lorem sed felis rutrum gravida. Nam mattis cursus lacinia. Cras sit amet interdum elit. Morbi viverra, est a tincidunt facilisis, est est maximus urna, id rhoncus mi metus et lacus. Pellentesque finibus ex vel nulla fermentum tempus. Nunc vel lorem enim. Sed varius scelerisque nulla, nec ultrices ligula gravida eu. Curabitur eu turpis sit amet nisl vehicula tempor ultrices eu lacus. Curabitur malesuada nulla neque. Aenean mattis lectus ex, molestie ultricies elit fringilla eget. Quisque iaculis volutpat nisl, vitae lobortis ipsum elementum sed. Nulla facilisi. Maecenas cursus turpis ac lacus efficitur, non bibendum ligula consequat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris accumsan placerat felis, at bibendum ante.\n\nQuisque varius dui vel commodo lobortis. Vestibulum eu metus vel dui lobortis volutpat. Cras vitae neque ornare, vehicula urna et, efficitur dolor. Nunc congue euismod leo non rhoncus. Nulla mollis libero a ullamcorper placerat. Morbi bibendum viverra orci in auctor. Donec in est varius, hendrerit risus vitae, commodo purus. Praesent eget rhoncus ligula. Suspendisse quis ultricies ligula. Nullam tincidunt rutrum nisl eget luctus. Phasellus eget nulla semper, varius ligula a, gravida urna. Etiam tempor feugiat elit eu cursus. Donec tristique ligula a aliquam tempor.\n\nProin nec nunc tellus. Donec sapien leo, ornare quis condimentum a, euismod sit amet augue. Aliquam tincidunt mauris at arcu suscipit, quis scelerisque justo rhoncus. Vestibulum lobortis dui at odio lacinia mattis. Praesent nunc urna, bibendum ut dui eget, consequat suscipit leo. Curabitur auctor vel dui fermentum auctor. Sed ultrices ligula mauris, id blandit sapien ultrices id. Morbi volutpat tortor quis ex convallis aliquam. Nunc eleifend risus eget dui condimentum scelerisque.\n",
-        "contentDigest": "5e922ea3cfd53d38801eb86cb7999ced",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "New Beginnings",
-        "date": "2015-05-28T22:40:32.169Z",
-        "layout": "post",
-        "path": "/hi-folks/",
-        "categories": [
-          "FrontEnd"
-        ],
-        "description": "Employment, gender, breakthrough insights carbon emissions reductions peaceful, sharing economy Angelina Jolie accelerate, inclusive capitalism research inspire social change social good informal economies minority. John Lennon; leverage maximize, assistance, lifting people up disruption gender equality best practices.",
-        "parent": "/var/www/nedreact/src/pages/articles/2015-05-28-hi-folks/index.md absPath of file"
-      },
-      "fileAbsolutePath": "/var/www/nedreact/src/pages/articles/2015-05-28-hi-folks/index.md"
-    },
-    "/var/www/nedreact/src/pages/articles/2015-05-06-my-second-post/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/var/www/nedreact/src/pages/articles/2015-05-06-my-second-post/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/var/www/nedreact/src/pages/articles/2015-05-06-my-second-post/index.md absPath of file",
+      "parent": "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-06-my-second-post/index.md absPath of file",
       "internal": {
         "content": "---\ntitle: My Second Post!\ndate: \"2015-05-06T23:46:37.121Z\"\nlayout: post\npath: \"/my-second-post/\"\ncategories:\n  - FrontEnd\ndescription: \"Civil society; save lives pathway to a better life public-private partnerships solution, tackle, protect UNHCR social movement Jane Addams sustainable campaign respond equality.\"\n---\n\nWow! I love blogging so much already.\n\nDid you know that \"despite its name, salted duck eggs can also be made from chicken eggs, though the taste and texture will be somewhat different, and the egg yolk will be less rich.\"? ([Wikipedia Link](http://en.wikipedia.org/wiki/Salted_duck_egg))\n\nYeah, I didn't either.\n",
         "contentDigest": "d78ae2ab590d945972c0fed583c22868",
@@ -1821,14 +1738,47 @@
           "FrontEnd"
         ],
         "description": "Civil society; save lives pathway to a better life public-private partnerships solution, tackle, protect UNHCR social movement Jane Addams sustainable campaign respond equality.",
-        "parent": "/var/www/nedreact/src/pages/articles/2015-05-06-my-second-post/index.md absPath of file"
+        "parent": "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-06-my-second-post/index.md absPath of file"
       },
-      "fileAbsolutePath": "/var/www/nedreact/src/pages/articles/2015-05-06-my-second-post/index.md"
+      "fileAbsolutePath": "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-06-my-second-post/index.md"
     },
-    "/var/www/nedreact/src/pages/articles/2015-05-01-hello-world/movable-type.jpg absPath of file": {
-      "id": "/var/www/nedreact/src/pages/articles/2015-05-01-hello-world/movable-type.jpg absPath of file",
+    "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-28-hi-folks/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-28-hi-folks/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-28-hi-folks/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: New Beginnings\ndate: \"2015-05-28T22:40:32.169Z\"\nlayout: post\npath: \"/hi-folks/\"\ncategories:\n  - FrontEnd\ndescription: \"Employment, gender, breakthrough insights carbon emissions reductions peaceful, sharing economy Angelina Jolie accelerate, inclusive capitalism research inspire social change social good informal economies minority. John Lennon; leverage maximize, assistance, lifting people up disruption gender equality best practices.\"\n---\n\n*This post is going to be a little hard to read for those that don't speak latin.*\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vel neque dignissim mi maximus interdum. Cras dictum quam et ex molestie facilisis. Proin dapibus sed sapien nec gravida. Praesent at leo ut erat varius rhoncus at non mi. Quisque cursus non leo et varius. Maecenas porttitor scelerisque sapien at venenatis. Proin pellentesque gravida elementum. Nam eget porttitor ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean nec commodo lacus, eu mollis nisi. Nullam felis mi, tempus ac ipsum a, venenatis blandit magna. Sed mattis magna est, quis tincidunt massa aliquam vitae. Ut in ipsum blandit, ultrices lacus a, condimentum nibh. Sed commodo, lorem eget interdum molestie, lacus nisi lacinia velit, tempus commodo lacus erat porttitor dolor.\n\nPhasellus vitae ante justo. Fusce dui elit, finibus non posuere sed, ullamcorper at odio. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque molestie lorem dolor, eget tincidunt ligula suscipit sit amet. Maecenas tempor nulla orci, sed scelerisque massa convallis id. Fusce iaculis nibh et lectus bibendum viverra. Nulla volutpat vehicula tortor non cursus. Maecenas vulputate mi nec accumsan ultricies. Praesent vitae tellus ligula. Praesent placerat fringilla purus, ac fermentum ipsum faucibus sed. Fusce semper, sapien hendrerit fringilla sagittis, lacus felis accumsan tellus, ac mollis ex arcu vitae lorem. Duis vitae semper felis. Duis consectetur, diam id laoreet suscipit, felis felis imperdiet sem, vel posuere leo ligula nec sapien. Maecenas at imperdiet nulla. Quisque quam nibh, feugiat vitae rhoncus ac, hendrerit eu quam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nNullam vehicula lorem sed felis rutrum gravida. Nam mattis cursus lacinia. Cras sit amet interdum elit. Morbi viverra, est a tincidunt facilisis, est est maximus urna, id rhoncus mi metus et lacus. Pellentesque finibus ex vel nulla fermentum tempus. Nunc vel lorem enim. Sed varius scelerisque nulla, nec ultrices ligula gravida eu. Curabitur eu turpis sit amet nisl vehicula tempor ultrices eu lacus. Curabitur malesuada nulla neque. Aenean mattis lectus ex, molestie ultricies elit fringilla eget. Quisque iaculis volutpat nisl, vitae lobortis ipsum elementum sed. Nulla facilisi. Maecenas cursus turpis ac lacus efficitur, non bibendum ligula consequat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris accumsan placerat felis, at bibendum ante.\n\nQuisque varius dui vel commodo lobortis. Vestibulum eu metus vel dui lobortis volutpat. Cras vitae neque ornare, vehicula urna et, efficitur dolor. Nunc congue euismod leo non rhoncus. Nulla mollis libero a ullamcorper placerat. Morbi bibendum viverra orci in auctor. Donec in est varius, hendrerit risus vitae, commodo purus. Praesent eget rhoncus ligula. Suspendisse quis ultricies ligula. Nullam tincidunt rutrum nisl eget luctus. Phasellus eget nulla semper, varius ligula a, gravida urna. Etiam tempor feugiat elit eu cursus. Donec tristique ligula a aliquam tempor.\n\nProin nec nunc tellus. Donec sapien leo, ornare quis condimentum a, euismod sit amet augue. Aliquam tincidunt mauris at arcu suscipit, quis scelerisque justo rhoncus. Vestibulum lobortis dui at odio lacinia mattis. Praesent nunc urna, bibendum ut dui eget, consequat suscipit leo. Curabitur auctor vel dui fermentum auctor. Sed ultrices ligula mauris, id blandit sapien ultrices id. Morbi volutpat tortor quis ex convallis aliquam. Nunc eleifend risus eget dui condimentum scelerisque.\n",
+        "contentDigest": "5e922ea3cfd53d38801eb86cb7999ced",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "New Beginnings",
+        "date": "2015-05-28T22:40:32.169Z",
+        "layout": "post",
+        "path": "/hi-folks/",
+        "categories": [
+          "FrontEnd"
+        ],
+        "description": "Employment, gender, breakthrough insights carbon emissions reductions peaceful, sharing economy Angelina Jolie accelerate, inclusive capitalism research inspire social change social good informal economies minority. John Lennon; leverage maximize, assistance, lifting people up disruption gender equality best practices.",
+        "parent": "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-28-hi-folks/index.md absPath of file"
+      },
+      "fileAbsolutePath": "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-28-hi-folks/index.md"
+    },
+    "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-01-hello-world/Printing-press.png absPath of file >> ImageSharp": {
+      "id": "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-01-hello-world/Printing-press.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-01-hello-world/Printing-press.png absPath of file",
+      "internal": {
+        "contentDigest": "9ec265253f068855f00558a9be7f3e03",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-01-hello-world/movable-type.jpg absPath of file": {
+      "id": "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-01-hello-world/movable-type.jpg absPath of file",
       "children": [
-        "/var/www/nedreact/src/pages/articles/2015-05-01-hello-world/movable-type.jpg absPath of file >> ImageSharp"
+        "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-01-hello-world/movable-type.jpg absPath of file >> ImageSharp"
       ],
       "parent": "___SOURCE___",
       "internal": {
@@ -1838,42 +1788,38 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/var/www/nedreact/src/pages/articles/2015-05-01-hello-world/movable-type.jpg",
+      "absolutePath": "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-01-hello-world/movable-type.jpg",
       "relativePath": "articles/2015-05-01-hello-world/movable-type.jpg",
       "extension": "jpg",
       "size": 1881547,
       "prettySize": "1.88 MB",
-      "modifiedTime": "2017-08-29T05:22:52.733Z",
-      "accessTime": "2017-08-29T13:24:52.198Z",
-      "changeTime": "2017-08-29T05:22:52.733Z",
-      "birthTime": "2017-08-29T05:22:52.733Z",
+      "modifiedTime": "2017-08-29T14:40:01.000Z",
+      "accessTime": "2017-08-29T14:41:07.000Z",
+      "changeTime": "2017-08-29T14:40:01.000Z",
+      "birthTime": "2017-08-29T14:40:01.000Z",
       "root": "/",
-      "dir": "/var/www/nedreact/src/pages/articles/2015-05-01-hello-world",
+      "dir": "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-01-hello-world",
       "base": "movable-type.jpg",
       "ext": ".jpg",
       "name": "movable-type",
-      "dev": 2055,
-      "mode": 33277,
+      "dev": 16777220,
+      "mode": 33261,
       "nlink": 1,
-      "uid": 1000,
-      "gid": 1000,
+      "uid": 385620560,
+      "gid": 932231305,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 268389,
+      "ino": 8551575,
       "blocks": 3680,
-      "atimeMs": 1504013092198.4844,
-      "mtimeMs": 1503984172732.9146,
-      "ctimeMs": 1503984172732.9146,
-      "birthtimeMs": 1503984172732.9146,
-      "atime": "2017-08-29T13:24:52.198Z",
-      "mtime": "2017-08-29T05:22:52.733Z",
-      "ctime": "2017-08-29T05:22:52.733Z",
-      "birthtime": "2017-08-29T05:22:52.733Z"
+      "atime": "2017-08-29T14:41:07.000Z",
+      "mtime": "2017-08-29T14:40:01.000Z",
+      "ctime": "2017-08-29T14:40:01.000Z",
+      "birthtime": "2017-08-29T14:40:01.000Z"
     },
-    "/var/www/nedreact/src/pages/articles/2015-05-01-hello-world/movable-type.jpg absPath of file >> ImageSharp": {
-      "id": "/var/www/nedreact/src/pages/articles/2015-05-01-hello-world/movable-type.jpg absPath of file >> ImageSharp",
+    "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-01-hello-world/movable-type.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-01-hello-world/movable-type.jpg absPath of file >> ImageSharp",
       "children": [],
-      "parent": "/var/www/nedreact/src/pages/articles/2015-05-01-hello-world/movable-type.jpg absPath of file",
+      "parent": "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-01-hello-world/movable-type.jpg absPath of file",
       "internal": {
         "contentDigest": "0d1540b9a8fca9db753ad10ae0a3427e",
         "type": "ImageSharp",
@@ -1882,7 +1828,7 @@
     },
     "SitePage /hello-world/": {
       "path": "/hello-world/",
-      "component": "/var/www/nedreact/src/templates/blog-post.js",
+      "component": "/Users/smorrissey/React/ned/ned/src/templates/blog-post.js",
       "context": {
         "path": "/hello-world/"
       },
@@ -1890,45 +1836,22 @@
       "layout": "index",
       "jsonName": "hello-world.json",
       "internalComponentName": "ComponentHelloWorld",
-      "updatedAt": 1504013093071,
+      "updatedAt": 1504018059334,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/var/www/nedreact/src/templates/blog-post.js",
+      "componentPath": "/Users/smorrissey/React/ned/ned/src/templates/blog-post.js",
       "id": "SitePage /hello-world/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "795572f0df5a90b2ece6fd6e86b27ce5",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /hi-folks/": {
-      "path": "/hi-folks/",
-      "component": "/var/www/nedreact/src/templates/blog-post.js",
-      "context": {
-        "path": "/hi-folks/"
-      },
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "layout": "index",
-      "jsonName": "hi-folks.json",
-      "internalComponentName": "ComponentHiFolks",
-      "updatedAt": 1504013093073,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/var/www/nedreact/src/templates/blog-post.js",
-      "id": "SitePage /hi-folks/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "8abe51e980a411ea67834b706181db53",
+        "contentDigest": "3941e49c476bc7fa4769f547a279591a",
         "owner": "internal-data-bridge"
       }
     },
     "SitePage /my-second-post/": {
       "path": "/my-second-post/",
-      "component": "/var/www/nedreact/src/templates/blog-post.js",
+      "component": "/Users/smorrissey/React/ned/ned/src/templates/blog-post.js",
       "context": {
         "path": "/my-second-post/"
       },
@@ -1936,58 +1859,81 @@
       "layout": "index",
       "jsonName": "my-second-post.json",
       "internalComponentName": "ComponentMySecondPost",
-      "updatedAt": 1504013093074,
+      "updatedAt": 1504018059335,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/var/www/nedreact/src/templates/blog-post.js",
+      "componentPath": "/Users/smorrissey/React/ned/ned/src/templates/blog-post.js",
       "id": "SitePage /my-second-post/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "be337918d37b94a1b55fc959a9962ac8",
+        "contentDigest": "32dd9714fad8d37784d3582f4332b757",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /hi-folks/": {
+      "path": "/hi-folks/",
+      "component": "/Users/smorrissey/React/ned/ned/src/templates/blog-post.js",
+      "context": {
+        "path": "/hi-folks/"
+      },
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "layout": "index",
+      "jsonName": "hi-folks.json",
+      "internalComponentName": "ComponentHiFolks",
+      "updatedAt": 1504018059336,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/smorrissey/React/ned/ned/src/templates/blog-post.js",
+      "id": "SitePage /hi-folks/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "65c1349770deabe150e93f9ae9cb043e",
         "owner": "internal-data-bridge"
       }
     },
     "SitePage /": {
       "path": "/",
-      "component": "/var/www/nedreact/src/pages/index.js",
+      "component": "/Users/smorrissey/React/ned/ned/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "layout": "index",
       "jsonName": "index.json",
       "internalComponentName": "ComponentIndex",
-      "updatedAt": 1504013093106,
+      "updatedAt": 1504018059346,
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/var/www/nedreact/src/pages/index.js",
+      "componentPath": "/Users/smorrissey/React/ned/ned/src/pages/index.js",
       "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bc761664a8bbd4092d5faaf037614347",
+        "contentDigest": "29109875b23b25f817ce76c5e991d4f1",
         "owner": "internal-data-bridge"
       }
     },
     "SitePage /profile/": {
       "path": "/profile/",
-      "component": "/var/www/nedreact/src/pages/profile/index.jsx",
+      "component": "/Users/smorrissey/React/ned/ned/src/pages/profile/index.jsx",
       "componentChunkName": "component---src-pages-profile-index-jsx",
       "layout": "index",
       "jsonName": "profile.json",
       "internalComponentName": "ComponentProfile",
-      "updatedAt": 1504013093115,
+      "updatedAt": 1504018059349,
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/var/www/nedreact/src/pages/profile/index.jsx",
+      "componentPath": "/Users/smorrissey/React/ned/ned/src/pages/profile/index.jsx",
       "id": "SitePage /profile/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "17df2f23cd71f46ce7049b49fbbffcba",
+        "contentDigest": "c24f5fbc564413a047bf0503036d06b3",
         "owner": "internal-data-bridge"
       }
     }
@@ -2004,13 +1950,13 @@
         "/my-second-post/",
         "/"
       ],
-      "/var/www/nedreact/src/pages/articles/2015-05-01-hello-world/index.md absPath of file >>> MarkdownRemark": [
+      "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-01-hello-world/index.md absPath of file >>> MarkdownRemark": [
         "/hello-world/"
       ],
-      "/var/www/nedreact/src/pages/articles/2015-05-28-hi-folks/index.md absPath of file >>> MarkdownRemark": [
+      "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-28-hi-folks/index.md absPath of file >>> MarkdownRemark": [
         "/hi-folks/"
       ],
-      "/var/www/nedreact/src/pages/articles/2015-05-06-my-second-post/index.md absPath of file >>> MarkdownRemark": [
+      "/Users/smorrissey/React/ned/ned/src/pages/articles/2015-05-06-my-second-post/index.md absPath of file >>> MarkdownRemark": [
         "/my-second-post/"
       ]
     },

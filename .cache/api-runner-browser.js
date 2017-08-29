@@ -1,8 +1,8 @@
 var plugins = [{
-      plugin: require('/var/www/nedreact/node_modules/gatsby-plugin-google-analytics/gatsby-browser.js'),
+      plugin: require('/Users/smorrissey/React/ned/ned/node_modules/gatsby-plugin-google-analytics/gatsby-browser.js'),
       options: {"plugins":[]},
     },{
-      plugin: require('/var/www/nedreact/node_modules/gatsby-plugin-offline/gatsby-browser.js'),
+      plugin: require('/Users/smorrissey/React/ned/ned/node_modules/gatsby-plugin-offline/gatsby-browser.js'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks
